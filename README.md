@@ -5,4 +5,3 @@
 - Tech stack: React, webRTC, Node.js, Express, Socket.io
 
 Link to the backend: [Backend](https://github.com/ProjectsByJackHe/multiplayer-chess-game-backend)
-$env:NODE_OPTIONS = "--openssl-legacy-provider"
